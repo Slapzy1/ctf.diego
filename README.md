@@ -1,2 +1,1 @@
-# ctf.diego
-Ctf basikisimo para Diegx
+flag 81737427
